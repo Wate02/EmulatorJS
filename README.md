@@ -18,14 +18,6 @@ Try out netplay [here](https://demo.emulatorjs.org/demos/netplay.html)!
 
 <br>
 
-[![Button Website]][Website] 
-[![Button Usage]][Usage]<br>
-[![Button Configurator]][Configurator]<br>
-[![Button Demo]][Demo] 
-[![Button Legacy]][Legacy]
-    
-[![Button Contributors]][Contributors]   
-    
 </div>
 
 <br>
