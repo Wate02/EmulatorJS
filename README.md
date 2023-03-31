@@ -2,7 +2,7 @@
 <div align = center>
 
 
-<img width = 300 src = docs/Logo.png#gh-light-mode-only> 
+
  
 <br>
 <br>
