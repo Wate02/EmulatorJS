@@ -21,12 +21,6 @@ Self-hosted **Javascript** emulation for various system.
 
 <br>
 
-### Extensions
-
- **[GameLibrary]**
-
-   *A library overview for your **ROM** folder.*
-
 <br>
 
 ### Old Cores
