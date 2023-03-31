@@ -12,27 +12,6 @@
     
 Self-hosted **Javascript** emulation for various system.
 
-<br>
-
-Try out netplay [here](https://demo.emulatorjs.org/demos/netplay.html)!
-
-<br>
-
-</div>
-
-<br>
-
-### Ads
-
-*This project has no ads.* <br>
-*Although, the demo page currently has an ad to help fund this project.* <br>
-*Ads on the demo page may come and go depending on how many people are* <br>
-*funding this project.* <br>
-
-*You can help fund this project on* ***[patreon]***
-
-<br>
-
 
 
 ### Issues
